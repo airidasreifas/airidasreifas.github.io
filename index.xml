@@ -13,7 +13,7 @@
       <link>https://airidasreifas.github.io/posts/laboratorinis/</link>
       <pubDate>Thu, 21 Dec 2023 22:29:19 +0200</pubDate>
       <guid>https://airidasreifas.github.io/posts/laboratorinis/</guid>
-      <description></description>
+      <description>&#xA;def hello_world(): print(&amp;#34;Hello, World!&amp;#34;) hello_world() </description>
     </item>
   </channel>
 </rss>
