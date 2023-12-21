@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Airido Laboratorinis darbas</title>
+    <link>https://airidasreifas.github.io/</link>
+    <description>Recent content on Airido Laboratorinis darbas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 21 Dec 2023 22:29:19 +0200</lastBuildDate>
+    <atom:link href="https://airidasreifas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laboratorinio uzduotis</title>
+      <link>https://airidasreifas.github.io/posts/laboratorinis/</link>
+      <pubDate>Thu, 21 Dec 2023 22:29:19 +0200</pubDate>
+      <guid>https://airidasreifas.github.io/posts/laboratorinis/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
